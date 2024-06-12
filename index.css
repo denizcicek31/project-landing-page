@@ -1,0 +1,192 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: #1F2937;
+    display: flex;
+    
+    
+}
+.left-side{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-right: 135px;
+    align-items: center;
+}
+.right-side{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+}
+.kug{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+body{
+    height: 100vh;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.middle-part{
+    background-color: #1F2937;
+    height: 40%;
+    padding: 35px;
+
+}
+p{
+    color: white;
+
+}
+.middle-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-part{
+    width: 20%;
+    height: 100%;
+}
+
+.churro{
+    border-radius: 15px;
+    width: 350px;
+    height: 250px;
+    margin-bottom: 100px;
+    
+}
+.website-title{
+    font-weight: bolder;
+    font-size: 35px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.bottom-part{
+    
+    width: 100%;
+    height: 100%;
+}
+.first-part{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.second-part{
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.food1{
+    width: 150px;
+    height: 150px;
+    margin-left: 25px;
+    border-radius: 25px;
+    
+}
+.text{
+    color: black;
+    width: 120px;
+    font-size: medium;
+}
+.first-image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second-image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.third-image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.fourth-image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+.thunder{
+    color: black;
+    font-weight: 100;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.third-part-title{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.thunder{
+    width: 450px;
+}
+.thor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.last-part{
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blue-part-title{
+    background-color: rgb(0, 191, 255);
+    width: 650px;
+    height: 150px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.loremer{
+    width: 350px;
+    color: beige;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 50px;
+}
+button{
+    background-color: #fcfdff;
+    padding: 15px;
+    margin-right: 25px;
+    border-radius: 25px;
+}
+.loremer2{
+    width: 450px;
+    color: black;
+    font-size: small;
+}
+.last-part1{
+    width: 100%;
+    height: 80px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color-background{
+    color: white;
+
+}
